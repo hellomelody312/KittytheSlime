@@ -1,7 +1,7 @@
-namespace hellomelody312\KittytheSlime\Commands\UserCommands;
+namespace Longman\TelegramBot\Commands\UserCommands;
 
-use hellomelody312\KittytheSlime\Commands\UserCommand;
-use hellomelody312\KittytheSlime\Request;
+use Longman\TelegramBot\Commands\UserCommand;
+use Longman\TelegramBot\Request;
 
 class TestCommand extends UserCommand
 {
