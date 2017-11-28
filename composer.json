@@ -17,6 +17,6 @@
         }
     ],
     "require": {
-        "longman/telegram-bot": "*"
+        "php-telegram-bot/telegram-bot-manager": "*"
     }
 }
