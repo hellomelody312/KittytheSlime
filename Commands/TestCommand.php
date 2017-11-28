@@ -5,9 +5,9 @@ use hellomelody312\KittytheSlime\Request;
 
 class TestCommand extends UserCommand
 {
-    protected $name = 'test';                      // Your command's name
-    protected $description = 'A command for test'; // Your command description
-    protected $usage = '/test';                    // Usage of your command
+    protected $name = 'skitty';                      // Your command's name
+    protected $description = 'summon the ultimate skitty'; // Your command description
+    protected $usage = ',skitty';                    // Usage of your command
     protected $version = '1.0.0';                  // Version of your command
 
     public function execute()
